@@ -1,5 +1,9 @@
 # cronograma-de-estudos
-
+## como fazer Login
+```
+email: user@example.com
+senha: password
+```
 ## Project setup
 ```
 npm install
