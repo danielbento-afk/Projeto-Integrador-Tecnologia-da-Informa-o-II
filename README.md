@@ -1,2 +1,24 @@
-# Projeto-Integrador-Tecnologia-da-Informa-o-II
-Projeto tem como foco principal, a criação de um aplicativo web voltado para pessoas que trabalham e estudam, e não tem tempo de  gerenciar melhor o seus estudos
+# cronograma-de-estudos
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
